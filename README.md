@@ -1,2 +1,2 @@
-# cockpit-ps2manager
+# Cockpit PlayStation 2 ISO Manager (cPS2m)
 Manage Sony PlayStation 2 HDDs from Cockpit
