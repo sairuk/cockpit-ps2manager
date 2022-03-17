@@ -1,0 +1,12 @@
+{
+  "version": 0,
+  "require": {
+      "cockpit": "120"
+  },
+  "tools": {
+     "ps2manager": {
+        "label": "PS2 Manager",
+        "path": "index.html"
+     }
+  }
+}

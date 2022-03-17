@@ -1,0 +1,13 @@
+{
+"ps2_username":"ps2",
+"ps2_password":"ps2",
+"ps2_ipaddress":"192.168.0.201",
+"ps2_type":"games",
+"opl_directory":"",
+"ps2_games_directory":"games",
+"nbd_block_device":"/dev/nbd0",
+"connect_mode":"ftp"
+"local_games_directory":"/home/retronas/data/ps2/games",
+"local_mount_directory":"/home/retronas/utils/consoles/ps2"
+"local_memcard_directory":"/home/retronas/data/ps2/memcards"
+}
